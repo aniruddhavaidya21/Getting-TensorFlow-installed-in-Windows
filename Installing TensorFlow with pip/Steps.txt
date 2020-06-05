@@ -1,0 +1,4 @@
+Open command prompt and type 'py' to check whether python is installed.
+Type 'quit()' to exit python shell.
+Type the command 'pip install tensorflow' and hit enter.
+Tensorflow will now be installed.
